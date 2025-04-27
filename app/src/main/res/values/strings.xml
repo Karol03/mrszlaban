@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MrSzlaban</string>
+    <string name="hint_latitude">Latitude</string>
+    <string name="hint_longitude">Longitude</string>
+    <string name="hint_range">Zasięg od bramy [m]</string>
+    <string name="hint_range_a">Zasięg przy pierwszym poł. = a*range^2</string>
+    <string name="hint_phone">Telefon</string>
+    <string name="hint_t1">Zadzwoń po uruchomieniu [s]</string>
+    <string name="hint_t2">Minimalny odstęp między poł. [min]</string>
+    <string name="hint_t3">Wyłącz gdy brak zasilania [min]</string>
+    <string name="save_button_text">Zapisz </string>
+    <string name="position">Pozycja: </string>
+    <string name="last_call">Ostatnie połączenie: </string>
+</resources>
